@@ -1,8 +1,11 @@
 # Object Oriented Programming II - A1
 
 ## Description
+This is a simple inventory program that lets you store appliance objects. You can then change their attributes, display the appliances under a certain price, and display the appliances of a certain brand.
 
 ## Concepts used
+- Classes (OPP)
+- Inheritance
 
 ## Sample output
 
